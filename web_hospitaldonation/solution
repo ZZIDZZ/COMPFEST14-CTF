@@ -1,0 +1,42 @@
+{
+  "status": "danger",
+  "items": [{
+    "name": "Hospital Bed",
+    "quantity": "10.01E23"
+  }],
+  "totalPrice": "Rp1",
+  "message": "Total donation quantity must be between 10 - 50 (inclusive)"
+}
+
+
+{
+  "status": "danger",
+  "items": [{
+    "name": "Ventilator",
+    "quantity": "10.01E23"
+  }],
+  "totalPrice": "Rp3",
+  "message": "Total donation quantity must be between 10 - 50 (inclusive)"
+}
+
+
+{
+  "status": "danger",
+  "items": [{
+    "name": "ECG Machine",
+    "quantity": "10.01E23"
+  }],
+  "totalPrice": "Rp5",
+  "message": "Total donation quantity must be between 10 - 50 (inclusive)"
+}
+
+
+{
+  "status": "success",
+  "items": [{
+    "name": "Transport Ventilator",
+    "quantity": "10.01E23"
+  }],
+  "totalPrice": "Rp3",
+  "message": "Thank you for your donation. Here is your reward: COMPFEST14{thank_you_4_helping_us_love_u_muaachh}"
+}

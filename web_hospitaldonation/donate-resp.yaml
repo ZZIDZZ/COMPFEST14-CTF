@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Server: nginx/1.23.1
+Date: Sat, 13 Aug 2022 03:28:43 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 227
+Connection: close
+X-Powered-By: Express
+ETag: W/"e3-Os2G1K9ySzH5lmME9FC3Pi2UPPs"
+
+{
+  "status": "danger",
+  "items": [{
+    "name": "Oxygen Tank",
+    "quantity": 5
+  }, {
+    "name": "Transport Ventilator",
+    "quantity": 2
+  }, {
+    "name": "Rontgen Machine",
+    "quantity": 2
+  }],
+  "totalPrice": "Rp3.682.000.000",
+  "message": "Sorry, your money is insufficient"
+}
