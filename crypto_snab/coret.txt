@@ -1,0 +1,10 @@
+s = (p + q) ^ 2
+s = p2 + q2 + 2n
+p2 + q2 = 2n - s
+q2 = 2n - s - p2
+
+
+
+a = (s^3) mod r
+
+n = p * q
